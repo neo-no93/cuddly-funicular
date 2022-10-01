@@ -1,11 +1,11 @@
 {
-	"main": "html/index.html",
+	"preload": "js/preload.js",
 	"logo": "resource/logo.png",
 	"features": [
 		{
-		  "code": "hello",
-		  "explain": "hello world",
-			"cmds":["hello", "你好"]
+		  "code": "trans",
+		  "explain": "translate",
+			"cmds":["trans", "翻译"]
 		}
 	]
 }
