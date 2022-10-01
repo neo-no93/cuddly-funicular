@@ -1,6 +1,6 @@
 {
 	"main": "html/index.html",
-	"logo": "logo.png",
+	"logo": "resource/logo.png",
 	"features": [
 		{
 		  "code": "hello",
