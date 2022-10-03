@@ -19,6 +19,24 @@ window.exports = {
                      description: 'baidu',
                      icon:'', // 图标(可选)
                      url: "https://fanyi.baidu.com/"
+                  },
+                  {
+                     title: 'DeepL',
+                     description: 'DeepL',
+                     icon:'', // 图标(可选)
+                     url: "https://https://www.deepl.com/zh/translator.baidu.com/"
+                  },
+                  {
+                     title: '剑桥英语',
+                     description: 'cambrigde',
+                     icon:'', // 图标(可选)
+                     url: "https://dictionary.cambridge.org/zhs/translate/://fanyi.baidu.com/"
+                  },
+                  {
+                     title: '有道翻译',
+                     description: 'youdao',
+                     icon:'', // 图标(可选)
+                     url: "https://fanyi.youdao.com/"
                   }
              ]
              )
